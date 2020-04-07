@@ -1,2 +1,4 @@
 .DS_Store
 *.log
+latex_projects/1.original_project/*
+latex_projects/2.edited_project/*
